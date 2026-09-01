@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AJAY\\Downloads\\jobportalupdated\\jobportalupdated\\RegistrationEmailService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE55AAF6-BF8C-B9F1-4321-0E98AE36B02D}|RegistrationEmailService.csproj|c:\\users\\ajay\\downloads\\jobportalupdated\\jobportalupdated\\registrationemailservice\\registrationemailservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AE55AAF6-BF8C-B9F1-4321-0E98AE36B02D}|RegistrationEmailService.csproj|solutionrelative:registrationemailservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE55AAF6-BF8C-B9F1-4321-0E98AE36B02D}|RegistrationEmailService.csproj|c:\\users\\ajay\\downloads\\jobportalupdated\\jobportalupdated\\registrationemailservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE55AAF6-BF8C-B9F1-4321-0E98AE36B02D}|RegistrationEmailService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE55AAF6-BF8C-B9F1-4321-0E98AE36B02D}|RegistrationEmailService.csproj|c:\\users\\ajay\\downloads\\jobportalupdated\\jobportalupdated\\registrationemailservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE55AAF6-BF8C-B9F1-4321-0E98AE36B02D}|RegistrationEmailService.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE55AAF6-BF8C-B9F1-4321-0E98AE36B02D}|RegistrationEmailService.csproj|c:\\users\\ajay\\downloads\\jobportalupdated\\jobportalupdated\\registrationemailservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE55AAF6-BF8C-B9F1-4321-0E98AE36B02D}|RegistrationEmailService.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE55AAF6-BF8C-B9F1-4321-0E98AE36B02D}|RegistrationEmailService.csproj|c:\\users\\ajay\\downloads\\jobportalupdated\\jobportalupdated\\registrationemailservice\\controllers\\registrationemailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE55AAF6-BF8C-B9F1-4321-0E98AE36B02D}|RegistrationEmailService.csproj|solutionrelative:controllers\\registrationemailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE55AAF6-BF8C-B9F1-4321-0E98AE36B02D}|RegistrationEmailService.csproj|c:\\users\\ajay\\downloads\\jobportalupdated\\jobportalupdated\\registrationemailservice\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE55AAF6-BF8C-B9F1-4321-0E98AE36B02D}|RegistrationEmailService.csproj|solutionrelative:services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE55AAF6-BF8C-B9F1-4321-0E98AE36B02D}|RegistrationEmailService.csproj|c:\\users\\ajay\\downloads\\jobportalupdated\\jobportalupdated\\registrationemailservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE55AAF6-BF8C-B9F1-4321-0E98AE36B02D}|RegistrationEmailService.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE55AAF6-BF8C-B9F1-4321-0E98AE36B02D}|RegistrationEmailService.csproj|c:\\users\\ajay\\downloads\\jobportalupdated\\jobportalupdated\\registrationemailservice\\dtos\\registrationemailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE55AAF6-BF8C-B9F1-4321-0E98AE36B02D}|RegistrationEmailService.csproj|solutionrelative:dtos\\registrationemailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AJAY\\Downloads\\jobportalupdated\\jobportalupdated\\RegistrationEmailService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\AJAY\\Downloads\\jobportalupdated\\jobportalupdated\\RegistrationEmailService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T07:27:36.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\AJAY\\Downloads\\jobportalupdated\\jobportalupdated\\RegistrationEmailService\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\AJAY\\Downloads\\jobportalupdated\\jobportalupdated\\RegistrationEmailService\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-03T07:30:46.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\AJAY\\Downloads\\jobportalupdated\\jobportalupdated\\RegistrationEmailService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\AJAY\\Downloads\\jobportalupdated\\jobportalupdated\\RegistrationEmailService\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-03T07:30:50.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrationEmailService.csproj",
+              "DocumentMoniker": "C:\\Users\\AJAY\\Downloads\\jobportalupdated\\jobportalupdated\\RegistrationEmailService\\RegistrationEmailService.csproj",
+              "RelativeDocumentMoniker": "RegistrationEmailService.csproj",
+              "ToolTip": "C:\\Users\\AJAY\\Downloads\\jobportalupdated\\jobportalupdated\\RegistrationEmailService\\RegistrationEmailService.csproj",
+              "RelativeToolTip": "RegistrationEmailService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-03T07:19:09.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistrationEmailController.cs",
+              "DocumentMoniker": "C:\\Users\\AJAY\\Downloads\\jobportalupdated\\jobportalupdated\\RegistrationEmailService\\Controllers\\RegistrationEmailController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RegistrationEmailController.cs",
+              "ToolTip": "C:\\Users\\AJAY\\Downloads\\jobportalupdated\\jobportalupdated\\RegistrationEmailService\\Controllers\\RegistrationEmailController.cs",
+              "RelativeToolTip": "Controllers\\RegistrationEmailController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwBoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T07:26:16.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\AJAY\\Downloads\\jobportalupdated\\jobportalupdated\\RegistrationEmailService\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\AJAY\\Downloads\\jobportalupdated\\jobportalupdated\\RegistrationEmailService\\Services\\EmailService.cs",
+              "RelativeToolTip": "Services\\EmailService.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAqwNcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T07:24:12.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\AJAY\\Downloads\\jobportalupdated\\jobportalupdated\\RegistrationEmailService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\AJAY\\Downloads\\jobportalupdated\\jobportalupdated\\RegistrationEmailService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-03T07:33:36.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegistrationEmailRequest.cs",
+              "DocumentMoniker": "C:\\Users\\AJAY\\Downloads\\jobportalupdated\\jobportalupdated\\RegistrationEmailService\\DTOs\\RegistrationEmailRequest.cs",
+              "RelativeDocumentMoniker": "DTOs\\RegistrationEmailRequest.cs",
+              "ToolTip": "C:\\Users\\AJAY\\Downloads\\jobportalupdated\\jobportalupdated\\RegistrationEmailService\\DTOs\\RegistrationEmailRequest.cs",
+              "RelativeToolTip": "DTOs\\RegistrationEmailRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T07:22:51.661Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

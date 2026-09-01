@@ -1,0 +1,6 @@
+@RegistrationEmailService_HostAddress = http://localhost:5070
+
+GET {{RegistrationEmailService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

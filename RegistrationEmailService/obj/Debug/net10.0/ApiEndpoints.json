@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "RegistrationEmailService.Controllers.RegistrationEmailController",
+    "Method": "SendEmail",
+    "RelativePath": "api/registration-email/send",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "RegistrationEmailService.DTOs.RegistrationEmailRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
